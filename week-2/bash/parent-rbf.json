@@ -1,0 +1,25 @@
+{
+  "txid": "7a4409a52752e69cb5ff79ec2eb4316766755bd1d0a5188cdc40cdc5eab394ca",
+  "input": [
+    {
+      "txid": "a4da17d5b780b4736f9ef1f282fea52aadbb74530c0539b66fafd2baeac06709",
+      "vout": 0
+    },
+    {
+      "txid": "62df11e705ff0488d606825c2b8cbba05d89598c389bdcb3231b478d7d466b37",
+      "vout": 0
+    }
+  ],
+  "output": [
+    {
+      "scriptpubkey": "00142efb607ad73cb16c395cd1146adb5c355f21d762",
+      "amount": 70
+    },
+    {
+      "scriptpubkey": "0014c768f4dfb7e6a21716e343c21e4330876c1b8300",
+      "amount": 29.99989
+    }
+  ],
+  "fee": 0.00011,
+  "weight": 832
+}
